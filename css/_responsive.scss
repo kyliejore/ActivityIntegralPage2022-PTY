@@ -1,0 +1,16 @@
+@media screen and (max-width:992px) {
+    header::after {
+        top: 65%;
+    }
+    // 
+    .theInfo section.InfoSection {
+        width: 99%;
+        top: 21%;
+    }
+}
+
+@media screen and (max-width:678px) {
+    header #home img.slogan-2 {
+        width: 90%;
+    }
+}
