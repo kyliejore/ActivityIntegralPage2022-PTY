@@ -1451,4 +1451,10 @@ products-area
     width: 90%;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .airBalloan {
+    display: none;
+  }
+}
 /*# sourceMappingURL=style.css.map */
