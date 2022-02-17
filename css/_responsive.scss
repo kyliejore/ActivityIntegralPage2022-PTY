@@ -20,3 +20,10 @@
         display: none;
     }
 }
+
+@media screen and (max-width:608px) {
+    a.nowExchange {
+        width: 100%;
+        font-size: 2rem;
+    }
+}
