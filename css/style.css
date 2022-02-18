@@ -1120,6 +1120,8 @@ products-area
   text-align: center;
   background: url("../images/sub-title-bg.png") no-repeat;
   height: 74px;
+  background-position: center center;
+  background-size: contain;
 }
 
 .single-products img {
