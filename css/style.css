@@ -370,6 +370,7 @@ ul.goldNav li a:hover {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .navgition .navbar .navbar-collapse {
+    text-align: center;
     position: absolute;
     top: 116%;
     left: 0;
@@ -447,7 +448,6 @@ ul.goldNav li a:hover {
   content: '';
   width: 8px;
   height: 4px;
-  background-color: #ffc532;
   left: 50%;
   margin: 0 2px;
   bottom: 14px;
