@@ -432,7 +432,7 @@ ul.goldNav {
 }
 
 .navgition .navbar .navbar-nav .nav-item {
-    margin: 0 16px;
+    margin: 0 31px;
     position: relative;
 }
 
@@ -664,6 +664,8 @@ ul.goldNav {
     margin: 0 auto;
     $round-width: 217px;
     span {
+        margin: 0 auto;
+        display: block;
         p {
             color: #474747;
             font-size: 30px;

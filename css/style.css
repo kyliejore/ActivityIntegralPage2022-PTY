@@ -411,7 +411,7 @@ ul.goldNav li a:hover {
 }
 
 .navgition .navbar .navbar-nav .nav-item {
-  margin: 0 16px;
+  margin: 0 31px;
   position: relative;
 }
 
@@ -627,6 +627,8 @@ ul.goldNav li a:hover {
 }
 
 .mainProducts span {
+  margin: 0 auto;
+  display: block;
   max-width: 217px;
   max-height: 217px;
   height: 100%;
